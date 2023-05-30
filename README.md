@@ -14,8 +14,3 @@ Kaggle Brazilian E-commerce Public Dataset by Olist 데이터를 활용하여 ED
 #### 데이터 스키마
  
 ![image](https://github.com/wbin0718/e-commerce_data_analysis/assets/104637982/2d9cfc02-1a09-405b-9e22-673e5c12f211)
-
-
-
-
-
