@@ -24,3 +24,4 @@ Kaggle Brazilian E-commerce Public Dataset by Olist 데이터를 활용하여 ED
   * 가장 주문율이 높은 상위 3개 카테고리를 찾고, 이후 분석에 활용을 했습니다.
   * 상위 3개 카테고리의 재구매율 분석을 진행했습니다.
   * 3개의 기준을 통해 코호트를 구성하고 기간별 리텐션 분석을 진행했습니다.
+  * SQL 링크 https://github.com/wbin0718/e-commerce_data_analysis/blob/master/e_commerce_sql.ipynb
